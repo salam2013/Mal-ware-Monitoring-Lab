@@ -97,8 +97,8 @@ python -m streamlit run main.py
 ```
 
 
+<img width="999" height="315" alt="Screenshot 2025-09-17 175017" src="https://github.com/user-attachments/assets/72e540d0-bc53-4eba-acae-b5808971329b" />
 
-<img width="999" height="315" alt="Screenshot 2025-09-17 175017" src="https://github.com/user-attachments/assets/629c2d51-5ac7-408d-b8e8-216cccf7d7a6" />
 
 
 
