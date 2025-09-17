@@ -1,8 +1,6 @@
 # Malware-Monitoring-Lab
-Automated Malware Monitoring &amp; AI Integration
-# Automated Malware Monitoring & AI Integration
 
-**Repository:** `Automated-Malware-Monitoring-AI`
+# Automated Malware Monitoring & AI Integration
 
 ---
 
@@ -193,14 +191,14 @@ data/*.db
 
 * Role-based access for Streamlit UI.
 * Agent-based collectors with secure TLS transport.
-* YARA + VirusTotal integrations.
+* VirusTotal integrations.
 * Docker + docker-compose support.
-* CI/CD pipeline with GitHub Actions.
+
 
 ---
 
-## Author
-##Salami Shuaib A. Cybersecurty Consultant
+# Author
+Salami Shuaib A. Cybersecurty Consultant
 Date: 17th September, 2025.
 
 
