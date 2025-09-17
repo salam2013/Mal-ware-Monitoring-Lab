@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 
 
-<img width="996" height="834" alt="Screenshot 2025-09-17 174843" src="https://github.com/user-attachments/assets/59c395f0-a1aa-4760-af34-8f68e22401cf" />
+<img width="1001" height="428" alt="Screenshot 2025-09-17 174817" src="https://github.com/user-attachments/assets/55b1ee2d-94d5-445d-8943-921e65375ea5" />
 
 
 
@@ -198,7 +198,7 @@ data/*.db
 ---
 
 # Author
-Salami Shuaib A. Cybersecurty Consultant
+Shuaib Salami A. Cybersecurty Consultant
 Date: 17th September, 2025.
 
 
